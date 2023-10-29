@@ -135,7 +135,7 @@
         <item>
          <layout class="QVBoxLayout" name="verticalLayout_3">
           <item>
-           <widget class="QLabel" name="label_20">
+           <widget class="QLabel" name="BestScore">
             <property name="maximumSize">
              <size>
               <width>16777215</width>
@@ -156,7 +156,7 @@
            </widget>
           </item>
           <item>
-           <widget class="QLabel" name="label_21">
+           <widget class="QLabel" name="BestScoreValue">
             <property name="maximumSize">
              <size>
               <width>16777215</width>
@@ -217,7 +217,7 @@
     <item>
      <layout class="QHBoxLayout" name="horizontalLayout_3">
       <item>
-       <widget class="QLabel" name="label_22">
+       <widget class="QLabel" name="NewGame">
         <property name="maximumSize">
          <size>
           <width>16777215</width>
@@ -278,7 +278,7 @@
        <enum>QLayout::SetMaximumSize</enum>
       </property>
       <item row="0" column="0">
-       <widget class="QLabel" name="label">
+       <widget class="QLabel" name="label_00">
         <property name="sizePolicy">
          <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
           <horstretch>0</horstretch>
@@ -315,7 +315,7 @@ background-color: #eee4da;</string>
        </widget>
       </item>
       <item row="2" column="1">
-       <widget class="QLabel" name="label_6">
+       <widget class="QLabel" name="label_21">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -343,7 +343,7 @@ background-color: #e1ba15;</string>
        </widget>
       </item>
       <item row="0" column="3">
-       <widget class="QLabel" name="label_4">
+       <widget class="QLabel" name="label_03">
         <property name="sizePolicy">
          <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
           <horstretch>0</horstretch>
@@ -377,7 +377,7 @@ background-color: #f59563;</string>
        </widget>
       </item>
       <item row="3" column="3">
-       <widget class="QLabel" name="label_10">
+       <widget class="QLabel" name="label_33">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -405,7 +405,7 @@ background-color: #5e9fe1;</string>
        </widget>
       </item>
       <item row="3" column="1">
-       <widget class="QLabel" name="label_7">
+       <widget class="QLabel" name="label_31">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -433,7 +433,7 @@ background-color: #238d50;</string>
        </widget>
       </item>
       <item row="0" column="2">
-       <widget class="QLabel" name="label_3">
+       <widget class="QLabel" name="label_02">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -462,7 +462,7 @@ background-color: #f3b175;
        </widget>
       </item>
       <item row="0" column="1">
-       <widget class="QLabel" name="label_2">
+       <widget class="QLabel" name="label_01">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -491,7 +491,7 @@ background-color: #eee0c6;
        </widget>
       </item>
       <item row="1" column="1">
-       <widget class="QLabel" name="label_5">
+       <widget class="QLabel" name="label_11">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -519,7 +519,7 @@ background-color: #ee5b39;</string>
        </widget>
       </item>
       <item row="2" column="3">
-       <widget class="QLabel" name="label_8">
+       <widget class="QLabel" name="label_23">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -547,7 +547,7 @@ background-color: #61da95;</string>
        </widget>
       </item>
       <item row="1" column="3">
-       <widget class="QLabel" name="label_9">
+       <widget class="QLabel" name="label_13">
         <property name="maximumSize">
          <size>
           <width>1000</width>
@@ -569,7 +569,7 @@ background-color: #efd04b;</string>
        </widget>
       </item>
       <item row="1" column="2">
-       <widget class="QLabel" name="label_11">
+       <widget class="QLabel" name="label_12">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -597,7 +597,7 @@ background-color: #f1d96b;</string>
        </widget>
       </item>
       <item row="2" column="2">
-       <widget class="QLabel" name="label_12">
+       <widget class="QLabel" name="label_22">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -625,7 +625,7 @@ background-color: #edc201;</string>
        </widget>
       </item>
       <item row="3" column="2">
-       <widget class="QLabel" name="label_13">
+       <widget class="QLabel" name="label_32">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -653,7 +653,7 @@ background-color: #71b3d5;</string>
        </widget>
       </item>
       <item row="1" column="0">
-       <widget class="QLabel" name="label_14">
+       <widget class="QLabel" name="label_10">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -681,7 +681,7 @@ background-color: #f67c5f;</string>
        </widget>
       </item>
       <item row="2" column="0">
-       <widget class="QLabel" name="label_15">
+       <widget class="QLabel" name="label_20">
         <property name="minimumSize">
          <size>
           <width>0</width>
@@ -709,7 +709,7 @@ background-color: #e4c02a;</string>
        </widget>
       </item>
       <item row="3" column="0">
-       <widget class="QLabel" name="label_16">
+       <widget class="QLabel" name="label_30">
         <property name="minimumSize">
          <size>
           <width>0</width>
